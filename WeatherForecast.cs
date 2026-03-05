@@ -2,6 +2,7 @@ namespace LearnGit
 {
     public class WeatherForecast
     {
+        // class for weather
         public DateOnly Date { get; set; }
 
         public int TemperatureC { get; set; }
