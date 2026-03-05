@@ -15,7 +15,7 @@ if (app.Environment.IsDevelopment())
 }
 
 
-// added some text
+// added some more text
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
